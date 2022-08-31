@@ -1,8 +1,10 @@
-num_1 = [4,5,6,7,87,9,0]
-num_2 = [4,5,6,7,87,9,90,67]
+numbers = [2,3,4,5,6,7,8,9]
 
-Last  = num_1
-First = num_2
-  
-print(f"{Last}  {First}")
+first, second, *other = numbers
+print(f"{first} {second} {other}")
 
+*other, Last_2, Last_1 = numbers
+print(f"{other} {Last_2} {Last_1} ")
+
+ 
+ 
