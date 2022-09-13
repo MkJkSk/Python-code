@@ -1,0 +1,16 @@
+{
+    "Customer": [
+        {
+            "name": "Rahul",
+            "Thing": "Cake"
+        },
+        {
+            "name": "Salman",
+            "Thing": "ice cream"
+        },
+        {
+            "name": "Tony",
+            "Thing": "Toy"
+        }
+    ]
+}
